@@ -91,15 +91,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) This is an article by Josh Comeau on when using px and rem/em. 
+- [How To Build An Animated Hamburger Menu With Only CSS](https://www.youtube.com/watch?v=dAIVbLrAb_U&t=1s) 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Katrien Schuermans](https://www.katriens.be)
+- Frontend Mentor - [@graficdoctor](https://www.frontendmentor.io/profile/graficdoctor)
+- Twitter - [@graficdoctor](https://www.twitter.com/graficdoctor)
 
 ## Acknowledgments
 
