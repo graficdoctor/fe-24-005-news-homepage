@@ -117,6 +117,9 @@ textarea:not([rows]) {
 }
 
 /* General Styling */
+html {
+	background-color: var(--clr-neutral-100);
+}
 
 body {
 	font-family: 'Inter', sans-serif;
@@ -287,8 +290,27 @@ header {
 		translate: 0 calc(var(--hamburger-bar-height) / 2);
 	}
 
+	.header-navigation {
+		width: min(85vw, 16rem);
+		min-height: 100vh;
+		background-color: var(--clr-neutral-100);
+		color: var(--clr-neutral-900);
+		padding-left: 1.5rem;
+		font-size: var(--fs-18px);
+		position: absolute;
+		top: 80px;
+		translate: 100%;
+		transition: translate var(--animation-timing);
+	}
+
 	.header-navigation ul {
 		flex-direction: column;
+		padding-left: 0;
+		gap: 24px;
+	}
+
+	.hamburger-menu:has(input:checked) + .header-navigation {
+		translate: -100%;
 	}
 }
 
